@@ -1,0 +1,25 @@
+{
+  "name": "bowling-challenge",
+  "version": "1.0.0",
+  "description": "Bowling Challenge =================",
+  "main": "bowlingScoreCard.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robimaliqi/bowling-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robimaliqi/bowling-challenge/issues"
+  },
+  "homepage": "https://github.com/robimaliqi/bowling-challenge#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
